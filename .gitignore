@@ -1,7 +1,12 @@
 venv/
+.venv*/
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
 face_model.h5
+face_model.keras
+face_labels.json
+.idea/
+.pytest_cache/
 .DS_Store
